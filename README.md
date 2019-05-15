@@ -61,4 +61,15 @@
 - cube-form
 - cube-image-preview
 
+### 项目预览
+![Image text](https://raw.githubusercontent.com/dora-zc/mini-vue-mall/master/img_preview/home-1.png)
+
+![Image text](https://github.com/dora-zc/mini-vue-mall/blob/master/img_preview/home-2.png?raw=true)
+
+![Image text](https://github.com/dora-zc/mini-vue-mall/blob/master/img_preview/mall.png?raw=true)
+
+![Image text](https://github.com/dora-zc/mini-vue-mall/blob/master/img_preview/me.png?raw=true)
+
+
+
 
